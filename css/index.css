@@ -120,7 +120,7 @@ div {
     width: 32px;
     height: 32px;
     margin-top: 6px;
-    background: url(images/localnav_bg.png) no-repeat 0 0;
+    background: url(../images/localnav_bg.png) no-repeat 0 0;
     background-size: 32px auto;
 }
 
@@ -225,7 +225,7 @@ div {
     height: 28px;
     margin-top: 6px;
     /* background-color: pink; */
-    background: url(images/subnav-bg.png) no-repeat 0 0;
+    background: url(../images/subnav-bg.png) no-repeat 0 0;
     background-size: 28px auto;
 }
 
